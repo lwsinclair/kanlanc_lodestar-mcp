@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-kanlanc-lodestar-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-kanlanc-lodestar-mcp)
+
 To start the project
 
 ```bash
